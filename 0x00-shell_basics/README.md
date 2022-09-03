@@ -1,1 +1,1 @@
-copying html files to parent directory 
+creating copies of html files to parent directory 
