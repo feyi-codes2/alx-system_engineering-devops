@@ -1,1 +1,1 @@
-creating copies of html files to parent directory 
+Display current directory contents in a long format
